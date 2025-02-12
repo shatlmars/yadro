@@ -209,7 +209,7 @@ std::string Task::idEvents(int id, std::string name, int time, int number_table)
     default:
         break;
     }
-
+    return "\n";
 }
 
 
